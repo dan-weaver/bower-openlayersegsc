@@ -1,0 +1,15 @@
+{
+  "name": "openlayers-egsc",
+  "version": "0.0.0",
+  "main":"./OpenLayers.js",
+  
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "components"
+  ],
+  "repository":{
+    "type":"git",
+    "url":""
+  }
+}
